@@ -10,7 +10,7 @@ Teach students the fundamentals of working with GitHub.
 - Forking workflows
 
 ## Activities
-- Creating Github account
+- Create Github account
 - Creating and managing repositories
 - Updating code collaboratively
 - Creating and merging branches
@@ -22,4 +22,5 @@ Teach students the fundamentals of working with GitHub.
 
 ## Outcome
 By the end of this module, students will be able to effectively use GitHub as a collaborative tool for programming projects.
+
 
